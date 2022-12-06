@@ -1,0 +1,1 @@
+Si vous voulez executez le code il faut le lancer via bash (CMD) en utilisant five-server. Donc avoir npm sur son pc. C'est pour cela que ces fichiers ont pour but surtout de donner le code. Il n'est pas sous forme de "build" exécutable.

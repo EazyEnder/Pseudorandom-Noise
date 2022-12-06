@@ -1,0 +1,8 @@
+Le compte-rendu est suffisant vu qu'il y a le code dessus.
+Néanmoins pour les animations vous pouvez éxecutez les notebooks.
+Si besoin de voir les sources JS pour les rendus : voir dans le dossier associé.
+
+GitHub : https://github.com/EazyEnder
+Vous pourrez y trouver si besoin 
+- Des débuts d'un système de blueprints (cf : quand je parle de Gaea dans le compte rendu).
+- Des projets en JAVA dont 1 ("OdysseyServer") comptabilisant + de 20 000 lignes de code. (https://github.com/EazyEnder/OdysseyServer/graphs/contributors)
